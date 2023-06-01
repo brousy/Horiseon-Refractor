@@ -20,3 +20,5 @@ Features
 Click on the NAV and scroll to that section.
 
 Screen Shots
+<img width="1552" alt="Screen Shot 2023-06-01 at 8 45 14 AM" src="https://github.com/brousy/Horiseon-Refractor/assets/127621375/0f30b903-0242-4804-8949-7fa5b38b8ab8">
+<img width="1552" alt="Screen Shot 2023-06-01 at 8 45 25 AM" src="https://github.com/brousy/Horiseon-Refractor/assets/127621375/812ded9e-e618-4e30-8f45-1cd3c25f34a5">
