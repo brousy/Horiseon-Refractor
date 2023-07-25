@@ -20,4 +20,3 @@ Features
 Click on the NAV and scroll to that section.
 
 Screen Shots
-/Users/elizabethquinn/Desktop/bootcamp-may/Horiseon-Refractor/assets/images/Screen Shot 2023-06-01 at 8.45.14 AM.png
